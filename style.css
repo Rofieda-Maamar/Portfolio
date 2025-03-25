@@ -499,3 +499,7 @@ footer {
 footer p { 
     text-align: center;
 }
+
+.btm-container { 
+    margin-top: auto;
+}
